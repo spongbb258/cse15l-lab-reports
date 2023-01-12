@@ -1,3 +1,2 @@
-Hello, world!
+1
 
-Lab report for week 1
