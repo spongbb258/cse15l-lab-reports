@@ -1,6 +1,6 @@
 # Week 1 Lab Report
 
-## 1.Part 1 - Visual Studio Code**
+## 1.Part 1 - Visual Studio Code
 
 
     Go to Visual Studio Code website https://code.visualstudio.com/, then download and install VSC on your computer. There are different version for **MAC** and **WINDOWS**.
