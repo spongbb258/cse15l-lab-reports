@@ -1,1 +1,1 @@
-file:///C:/Users/zyc72/OneDrive/%E6%A1%8C%E9%9D%A2/New%20folder/Week%201%20Lab%20Report.html
+[Week 1 Lab Report.pdf](https://github.com/spongbb258/cse15l-lab-reports/files/10419433/Week.1.Lab.Report.pdf)
