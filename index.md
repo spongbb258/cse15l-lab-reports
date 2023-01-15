@@ -10,4 +10,3 @@
 * **Part 2 - Remotely Connecting**
 
 * **Part 3 - Run Some Commands**
-[Week 1 Lab Report.md](https://github.com/spongbb258/cse15l-lab-reports/files/10419154/Week.1.Lab.Report.md)
