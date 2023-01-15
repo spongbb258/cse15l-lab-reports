@@ -1,2 +1,1 @@
-
-[Week 1 Lab Report.md](https://github.com/spongbb258/cse15l-lab-reports/blob/main/Week%201%20Lab%20Report.md)
+file:///C:/Users/zyc72/OneDrive/%E6%A1%8C%E9%9D%A2/New%20folder/Week%201%20Lab%20Report.html
