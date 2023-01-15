@@ -1,9 +1,12 @@
----
-title: Lab report 1
-layout: default
-nav_order: 2
----
+# Week 1 Lab Report
+
+* **Part 1 - Visual Studio Code**
 
 
+    Go to Visual Studio Code website https://code.visualstudio.com/, then download and install VSC on your computer.
+    
+    
 
-week 1 lab report
+* **Part 2 - Remotely Connecting**
+
+* **Part 3 - Run Some Commands**
