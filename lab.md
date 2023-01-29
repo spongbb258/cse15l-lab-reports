@@ -3,7 +3,7 @@
 * **Part 1 - Visual Studio Code**
 
 
-    Go to Visual Studio Code website [Link]([http://a.com](https://code.visualstudio.com/)), then download and install VSC on your computer. There are different version for **MAC** and **WINDOWS**.
+    Go to Visual Studio Code website [https://code.visualstudio.com/]( https://code.visualstudio.com/), then download and install VSC on your computer. There are different version for **MAC** and **WINDOWS**.
     
     After installed the VSC, you should be able to open a window that looks like this (it might have different colors, or a different menu bar, depending on your system and settings):
     
@@ -16,7 +16,7 @@
     
     **Step 1: CSE15L Account**
     
-    Look up your course account for CSE15L at this link: [Link]([http://a.com](https://sdacs.ucsd.edu/~icc/index.php))
+    Look up your course account for CSE15L at this link: [htts://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
     
     Then input your UCSD username and PID like the screenshot (PID should start with small ‘a’, e.g: a12345678), and click on the submit button
     
