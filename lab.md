@@ -65,5 +65,5 @@
     
     **Command functions and summary:**
     
-    The cd commend allows me to change directory. The ls -lat listed files and showed the created times of the files. The ls -a listed out the files. The pwd printed out the path of the working directory. In this section. I logged into the account and connected to a computer in the CSE building. I also tried out different commands that are related to path, directory and also files in the directory, and I learned the functions of the commands at the same times.
+    The cd commend allows me to change directory. The ls -lat listed files and showed the created times of the files. The ls -a listed out the files. The pwd printed out the path of the working directory. In this section. I logged into the account for the first time and connected to a computer in the CSE building. I also tried out different commands that are related to path, directory and also files in the directory, and I learned the functions of these commands at the same times and actually saw the outcomes of these commands.
     
