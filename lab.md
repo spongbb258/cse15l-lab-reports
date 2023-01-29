@@ -63,6 +63,7 @@
     
     <img width="1253" alt="command" src="https://user-images.githubusercontent.com/106724998/212527737-2ef3affb-b513-4e06-ae6a-a0db6558fcbb.png">
     
-    Command functions and summary:
+    **Command functions and summary:**
+    
     The cd commend allows me to change directory. The ls -lat listed files and showed the created times of the files. The ls -a listed out the files. The pwd printed out the path of the working directory. In this section. I logged into the account and connected to a computer in the CSE building. I also tried out different commands that are related to path, directory and also files in the directory, and I learned the functions of the commands at the same times.
     
