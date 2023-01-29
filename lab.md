@@ -42,7 +42,7 @@
     
     ![terminal](https://user-images.githubusercontent.com/106724998/212527225-826df596-5e05-47cd-8bac-e444c71ba3b8.png)
 
-    Then insert command, **$ ssh cs15lwi23zz@ieng6.ucsd.edu**, but replace the zz within the letters in your account. Then insert your password and you will get the result from below picture, which means you successfully connected to a computer in the CSE basement:
+    Then insert command, *$ ssh cs15lwi23zz@ieng6.ucsd.edu*, but replace the zz within the letters in your account. Then insert your password and you will get the result from below picture, which means you successfully connected to a computer in the CSE basement:
     
     <img width="711" alt="success" src="https://user-images.githubusercontent.com/106724998/212527356-ccb8e61b-5512-4d21-9ba9-dfe0176dc399.png">
     
