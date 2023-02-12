@@ -4,10 +4,7 @@
     
     **1. use the -r option**
     
-   <code>interface URLHandler {
-  String processRequest(URI uri);
-}
-</code>
+    ```
     
     **2. use the -c option**
     
