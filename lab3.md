@@ -87,3 +87,7 @@
     
     Significantly, it was in several of these [labor-intensive] more fragmented industries—textiles, apparel, furniture, and some food processing—that the mass retailer (the department stores, mail-order houses and chain stores) began to coordinate the flow of goods from manufacturer to consumer. In those industries where substantial economies of scale and scope did not exist in production, high-volume flows through the processes of production and distribution came to be guided—and the resulting cost reductions achieved—by the buying departments of mass retailers, retailers who handled a variety of related products through their facilities.43
     ```
+ 
+ * ## Ciation
+    
+   I did search of the four command-line options to use grep on ChatGPT. Thus, some explanation are using the ideas from ChatGPT.
