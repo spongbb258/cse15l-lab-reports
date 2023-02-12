@@ -2,22 +2,27 @@
 
 * **Part 1 - Stringserver**
 
-    ![WeChat Image_202301290109033](https://user-images.githubusercontent.com/106724998/215316619-46b6f248-336c-466e-bf58-03d6e8bc8d34.png)
+    * **buggy method**
+
+        ![WeChat Image_202301290109033](https://user-images.githubusercontent.com/106724998/215316619-46b6f248-336c-466e-bf58-03d6e8bc8d34.png)
 
 
-    For this screenshot, I wrote a if when there is not an add involved, and it will return the string array directly. For the else part, if I inserted /add in URL with a string, then the string will be added in to the array, and be displayed.
+        For this screenshot, I wrote a if when there is not an add involved, and it will return the string array directly. For the else part, if I inserted /add in URL     with a string, then the string will be added in to the array, and be displayed.
     
+  * **buggy method**
+
+        ![WeChat Image_20230129010903](https://user-images.githubusercontent.com/106724998/215316653-857257df-14de-403d-acd0-e382e7d8b8a6.png)
     
-    ![WeChat Image_20230129010903](https://user-images.githubusercontent.com/106724998/215316653-857257df-14de-403d-acd0-e382e7d8b8a6.png)
-    
-    For this screenshot, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will increase, and string will insert into correct index.
+        For this screenshot, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will            increase, and string will insert into correct index.
+        
+   * **buggy method**
    
-    ![WeChat Image_202301290109031](https://user-images.githubusercontent.com/106724998/215316660-8eef1c36-e68e-4026-88c5-44cc5e0740d3.png)
+     ![WeChat Image_202301290109031](https://user-images.githubusercontent.com/106724998/215316660-8eef1c36-e68e-4026-88c5-44cc5e0740d3.png)
     
-    ![WeChat Image_202301290109032](https://user-images.githubusercontent.com/106724998/215316667-cd110db9-2beb-4118-868d-479f1ace51ea.png)
+     ![WeChat Image_202301290109032](https://user-images.githubusercontent.com/106724998/215316667-cd110db9-2beb-4118-868d-479f1ace51ea.png)
     
     
-    For these screenshots, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will increase and string will insert into correct index, and the array got updated. 
+      For these screenshots, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will increase and string will insert into correct index, and the array got updated. 
     
  * **Part 2 - Bug fixing** 
   
