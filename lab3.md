@@ -12,7 +12,14 @@
 
     ```
     
-    **2. use the -c option**
+    **2. use the -v option**
+    <style>
+    pre {
+        background-color: yellow;
+        padding: 10px;
+    }
+    </style>
+
     
     ```
     zhuyichen@zhuyichendeMBP Abernathy % grep -v "in" ch3.txt
@@ -28,9 +35,4 @@
     
     **3. use the -A and -B options**
     
-    ```
-    zhuyichen@zhuyichendeMBP Abernathy % grep -c "in" ch3.txt
-    
-    54
-    ```
     **4. use the -i option**
