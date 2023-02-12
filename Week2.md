@@ -57,7 +57,7 @@
      
      * **Overall Thinking** 
       
-        Based on the Junit test, I observed that the array that we want to reverse has not reversed, and the new array is empty. From the original code, we can see that a **newArray** is created within the same capacity as **arr**. However, the elements in the **arr** has not stored in the **newArray** yet. Thus, in the method, when we write **newArray[arr.length - i - 1]**. There won't be any element, and that is way the result in Junit is 0. After fixing it, we still make the **newArray**'s capacity equals to **arr**'s, but in the for loop, we make the **arr**'s element stored into **newArray** reversedly, and return the **newArray** as output. Then we can have correct answer when testing.
+        Based on the Junit test, I observed that the array that we want to reverse has not reversed, and the output array is empty. From the original code, we can see that a **newArray** is created within the same capacity as **arr**. However, the elements in the **arr** has not stored in the **newArray** yet. Thus, in the method, when we write **newArray[arr.length - i - 1]**. There won't be any element, and that is way the result in Junit is 0. After fixing it, we still make the **newArray**'s capacity equals to **arr**'s, but in the for loop, we make the **arr**'s element stored into **newArray** reversedly, and return the **newArray** as output. Then we can have correct answer when testing.
               
 * **Part 3 - Learning of Week 2 and Week 3**
 
