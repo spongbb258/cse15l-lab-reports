@@ -58,7 +58,7 @@
     
     **3. use the -c options**
     
-        Using the **-v** option, it will display all lines that do not contain the word we put on the command line. This command-line option is useful because it can help us to find parts of file that do not contain a specific word.
+    Using the **-c** option, it will count the number of times a specific word appears in a file. This command-line option is useful when we want find how many times a word has appeared in a file.
     
     ```js
     zhuyichen@zhuyichendeMBP Abernathy % grep -c "in" ch3.txt
@@ -72,7 +72,9 @@
     1
     ```
     
-    **4. use the -i option**
+    **4. use the -w option**
+    
+    Using the **-w** option, it will count the number of times a specific word appears in a file. This command-line option is useful when we want find how many times a word has appeared in a file.
     
     ```js
     zhuyichen@zhuyichendeMBP Abernathy % grep -w "Chairman" ch3.txt
