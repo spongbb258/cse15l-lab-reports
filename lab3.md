@@ -26,6 +26,17 @@
     Department Stores: Dillard’s and Federated
     ```
     
+    ```js
+    zhuyichen@zhuyichendeMBP Abernathy % grep -v "the" ch1.txt
+
+    Five Decades of Change
+    A Dying Industry—or Not?
+    The Channel Perspective: Five Propositions
+    Proposition 1:  The retail, apparel, and textile sectors are increasingly linked as a channel through information and distribution relationships.
+    Similar dynamics are cropping up in nonclothing areas as well. Grocery stores now stock a profusion of toothbrushes, Home Depot has shelves and shelves     of different light bulbs, and Dell offers custom-configured personal computers. The growing presence of fashion-basic elements in myriad consumer           products means that all retailers and suppliers may find new competitive opportunities using replenishment.
+    How This Book Is Organized
+    ```
+    
     **3. use the -c options**
     
     ```js
