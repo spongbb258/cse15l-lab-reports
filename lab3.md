@@ -74,7 +74,7 @@
     
     **4. use the -w option**
     
-    Using the **-w** option, it will count the number of times a specific word appears in a file. This command-line option is useful when we want find how many times a word has appeared in a file.
+    Using the **-w** option, it will search for the specific word we put on the command line only if it appears as a whole word. This command-line option is useful when we want to find a specific word.
     
     ```js
     zhuyichen@zhuyichendeMBP Abernathy % grep -w "Chairman" ch3.txt
