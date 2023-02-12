@@ -31,6 +31,8 @@
     
     **2. use the -v option**
     
+    Using the **-v** option, it will display all lines that do not contain the word we put on the command line. This command-line option is useful because it can help us to find parts of file that do not contain a specific word.
+    
     ```js
     zhuyichen@zhuyichendeMBP Abernathy % grep -v "in" ch3.txt
     
@@ -55,6 +57,8 @@
     ```
     
     **3. use the -c options**
+    
+        Using the **-v** option, it will display all lines that do not contain the word we put on the command line. This command-line option is useful because it can help us to find parts of file that do not contain a specific word.
     
     ```js
     zhuyichen@zhuyichendeMBP Abernathy % grep -c "in" ch3.txt
