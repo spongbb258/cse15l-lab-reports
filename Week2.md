@@ -55,7 +55,7 @@
        
              ![WeChat Image_202301290151381](https://user-images.githubusercontent.com/106724998/215318511-96244b60-a339-4bc2-8c3a-fe5ce31db851.png)
      
-    * **Thinking** 
+ * **Part 3 - Overall thinking** 
       
       How
               
