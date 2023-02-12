@@ -9,7 +9,7 @@
 
         For this screenshot, I wrote a if when there is not an add involved, and it will return the string array directly. For the else part, if I inserted /add in URL     with a string, then the string will be added in to the array, and be displayed.
     
-  * **Called method**
+  * **Call method**
 
        ![WeChat Image_20230129010903](https://user-images.githubusercontent.com/106724998/215316653-857257df-14de-403d-acd0-e382e7d8b8a6.png)
     
