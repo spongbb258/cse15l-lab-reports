@@ -54,7 +54,11 @@
         * After fixing
        
              ![WeChat Image_202301290151381](https://user-images.githubusercontent.com/106724998/215318511-96244b60-a339-4bc2-8c3a-fe5ce31db851.png)
+     
+    * **Thinking** 
+      
+      How
               
-* **Part 3**
+* **Part 3 - Learning of Week 2 and Week 3**
 
    One of things I learned was about building and running the Server. Through the code provided from lab 2. I read through the code on how to use code to set up a server, and also the meaning of the methods inside the code. Throughout practicing the command on the server, I understood how to add element onto the server, and updated the server. 
