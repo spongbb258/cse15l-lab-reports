@@ -26,6 +26,12 @@
     Department Stores: Dillard’s and Federated
     ```
     
-    **3. use the -A and -B options**
+    **3. use the -c options**
+    
+    ```js
+    zhuyichen@zhuyichendeMBP Abernathy % grep -c "in" ch3.txt
+    
+    54
+    ```
     
     **4. use the -i option**
