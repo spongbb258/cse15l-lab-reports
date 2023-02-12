@@ -13,13 +13,6 @@
     ```
     
     **2. use the -v option**
-    <style>
-    pre {
-        background-color: yellow;
-        padding: 10px;
-    }
-    </style>
-
     
     ```
     zhuyichen@zhuyichendeMBP Abernathy % grep -v "in" ch3.txt
