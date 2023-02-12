@@ -4,7 +4,13 @@
     
     **1. use the -r option**
     
-        ww
+    ```
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "age": 25
+    }
+    ```
     
     **2. use the -c option**
     
