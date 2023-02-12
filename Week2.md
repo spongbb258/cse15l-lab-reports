@@ -11,9 +11,9 @@
     
   * **buggy method**
 
-        ![WeChat Image_20230129010903](https://user-images.githubusercontent.com/106724998/215316653-857257df-14de-403d-acd0-e382e7d8b8a6.png)
+       ![WeChat Image_20230129010903](https://user-images.githubusercontent.com/106724998/215316653-857257df-14de-403d-acd0-e382e7d8b8a6.png)
     
-        For this screenshot, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will            increase, and string will insert into correct index.
+       For this screenshot, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will            increase, and string will insert into correct index.
         
    * **buggy method**
    
