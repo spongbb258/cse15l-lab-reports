@@ -35,3 +35,9 @@
     ```
     
     **4. use the -i option**
+    
+    ```js
+    zhuyichen@zhuyichendeMBP Abernathy % grep -w "Chairman" ch3.txt
+    
+    —William Howell, Chairman, J.C. Penney, 1995
+    ```
