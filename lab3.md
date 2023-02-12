@@ -1,6 +1,6 @@
 # Lab Report 3
 
-* ## 4 interesting command-line options to use grep
+* ## Four interesting command-line options to use grep
     
     **1. use the -r option**
     
