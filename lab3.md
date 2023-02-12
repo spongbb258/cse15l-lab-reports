@@ -4,7 +4,7 @@
     
     **1. use the -r option**
     
-        Using the **-r** option, it will search for the word that we put on the command and use "" to represent the word we want to search, and then it will search in all files under the directory and its subdirectories. This command-line option is useful because it can help us to find a specific words in a directory or among files.
+    Using the **-r** option, it will search for the word that we put on the command and use "" to represent the word we want to search, and then it will search in  all files under the directory and its subdirectories. This command-line option is useful because it can help us to find a specific words in a directory or among files.
     
     ```js
     zhuyichen@zhuyichendeMBP skill-demo1-data-main % grep -r "Lucayans" written_2        
