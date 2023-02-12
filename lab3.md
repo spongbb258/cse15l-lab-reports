@@ -13,6 +13,17 @@
     
     **2. use the -c option**
     
+    ```
+    zhuyichen@zhuyichendeMBP Abernathy % grep -v "in" ch3.txt
+    The Retail Challenge
+    Product Proliferation
+    Retail Overcapacity
+    The Retail Fallout
+    —William Howell, Chairman, J.C. Penney, 1995
+    Mass Merchants: Wal-Mart
+    Department Stores: Dillard’s and Federated
+    ```
+    
     **3. use the -A and -B options**
     
     **4. use the -i option**
