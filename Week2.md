@@ -1,6 +1,6 @@
-# Week 1 Lab Report
+# Week 2 Lab Report
 
-* **Part 1**
+* **Part 1 Stringserver**
 
     ![WeChat Image_202301290109033](https://user-images.githubusercontent.com/106724998/215316619-46b6f248-336c-466e-bf58-03d6e8bc8d34.png)
 
@@ -19,7 +19,7 @@
     
     For these screenshots, the method is called is handle request method. When URL detected /add with a string. Then, the index of array will change, num will increase and string will insert into correct index, and the array got updated. 
     
- * **Part 2** 
+ * **Part 2 Bug fixing** 
   
     * **buggy method**
     
