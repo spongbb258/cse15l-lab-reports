@@ -34,6 +34,12 @@
     54
     ```
     
+    ```js
+    zhuyichen@zhuyichendeMBP Abernathy % grep -c "Significantly" ch2.txt 
+    
+    1
+    ```
+    
     **4. use the -i option**
     
     ```js
