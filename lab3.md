@@ -12,6 +12,21 @@
 
     ```
     
+    ```js
+    zhuyichen@zhuyichendeMBP skill-demo1-data-main % grep -r "Lydia" written_2
+    
+    written_2/non-fiction/OUP/Berk/ch1.txt:•Bob and Sharon, parents of a 4-year-old: Our daughter, Lydia, could recite her ABCs and count from 1 to 20 by age 2 1/2. When we looked for a preschool, many programs appeared to do little more than let children play, so we chose one with lots of emphasis on academics. To me, Lydia’s preschool seems like great preparation for kindergarten and ﬁrst grade, but each morning, Lydia hates to go. Why is Lydia, who’s always been an upbeat, curious child, so unhappy?
+    written_2/non-fiction/OUP/Berk/ch1.txt:Recall 4-year-old Lydia’s dislike of her academic preschool, described at the beginning of this chapter. Lydia’s negative reaction is certainly consistent with research ﬁndings. The behaviorist presumption that development can be mechanically engineered by social input, guaranteeing brighter, socially more mature children, is not borne out by the evidence.
+    written_2/travel_guides/berlitz1/HistoryIstanbul.txt:        Lydians and Persians
+    written_2/travel_guides/berlitz1/HistoryIstanbul.txt:        Inland from Ionia lived the wealthy and powerful Lydians,
+    written_2/travel_guides/berlitz1/HistoryIstanbul.txt:        expansionism brought the bulk of Ionia under Lydian rule, but also
+    written_2/travel_guides/berlitz1/HistoryIstanbul.txt:        With Lydia defeated, the Greek coastal cities lay open to
+    written_2/travel_guides/berlitz1/WhereToIstanbul.txt:        The site of Sardis, the former capital of ancient Lydia,
+    written_2/travel_guides/berlitz1/WhereToIstanbul.txt:        Afyon. The Lydians invented coinage, producing the first-ever coins of
+    written_2/travel_guides/berlitz1/WhereToIstanbul.txt:        born in S myrna during this period. After the Lydian conquest of the
+    written_2/travel_guides/berlitz1/WhereToIstanbul.txt:        Lydians, the Persians, and the Attalid kings of Pergamum, until 133
+    ```
+    
     **2. use the -v option**
     
     ```js
