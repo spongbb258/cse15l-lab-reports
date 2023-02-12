@@ -55,9 +55,9 @@
        
              ![WeChat Image_202301290151381](https://user-images.githubusercontent.com/106724998/215318511-96244b60-a339-4bc2-8c3a-fe5ce31db851.png)
      
- * **Part 3 - Overall thinking** 
+     * **Verall Thinking** 
       
-      How
+        How
               
 * **Part 3 - Learning of Week 2 and Week 3**
 
