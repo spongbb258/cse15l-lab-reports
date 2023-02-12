@@ -5,9 +5,7 @@
     **1. use the -r option**
     
     ```
-    "firstName": "John",
-    "lastName": "Smith",
-    "age": 25
+    1
     ```
     
     **2. use the -c option**
