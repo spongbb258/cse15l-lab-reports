@@ -8,3 +8,5 @@ PID:  A16634349
 [Week 2&3 Lab Report](lab2.md)
 
 [Lab report 3](lab3.md)
+
+[Lab report 4](lab4.md)
