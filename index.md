@@ -10,3 +10,5 @@ PID:  A16634349
 [Lab report 3](lab3.md)
 
 [Lab report 4](lab4.md)
+
+[Lab report 5](lab5.md)
